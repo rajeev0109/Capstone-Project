@@ -71,7 +71,7 @@ const Shipping = () => {
           type="number"
           placeholder="Phone Number"
           name="phone"
-          value={shippingInfo.pinCode}
+          value={shippingInfo.phone}
           onChange={changeHandler}
         />
 
